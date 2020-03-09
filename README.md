@@ -1,6 +1,8 @@
 # VIM-Editor-Commands
 VIM Editor Commands
 
+[Link](https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm)
+
 Vim is an editor to create or edit a text file.
 
 There are two modes in vim. One is the command mode and another is the insert mode.
@@ -221,4 +223,3 @@ Step 4 hit Esc key (exit from insert mode if you insert or replace text)
 
 Step 5 type :wq
 
-https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
